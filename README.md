@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @temps79
-- 👀
+- 👀 Java,Spring,SQL,TypeScript.
 - 📫 How to reach me https://t.me/temps799
 
 <!---
